@@ -4,13 +4,20 @@
     "href": "index.html",
     "title": "Houkunjun",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.我的名字是侯坤均，来自华中农业大学的一名研一的学生。\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "学号：2025303120071\n专业：资源利用与植物保护\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto About this site —"
+  },
+  {
+    "objectID": "about.html#关于我",
+    "href": "about.html#关于我",
+    "title": "About",
+    "section": "",
+    "text": "学号：2025303120071\n专业：资源利用与植物保护\n兴趣：数据分析、机器学习 ## 技能\nR 语言\nPython\nQuarto About this site —"
   }
 ]

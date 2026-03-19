@@ -1,1 +1,13 @@
-/* css styles */
+body {
+  background-image: url("https://img.icons8.com/color/1000/tennis-ball.png");
+  background-size: 120px;
+  background-repeat: repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+
+
